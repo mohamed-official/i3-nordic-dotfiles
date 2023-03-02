@@ -4,7 +4,7 @@
 ![image info](https://github.com/mohamed-official/i3-nordic-dotfiles/blob/main/screenshots/screenshot4.png)
 ![image info](https://github.com/mohamed-official/i3-nordic-dotfiles/blob/main/screenshots/screenshot3.png)
 ![image info](https://github.com/mohamed-official/i3-nordic-dotfiles/blob/main/screenshots/screenshot2.png)
-![image info](https://github.com/mohamed-official/i3-nordic-dotfiles/blob/main/screenshots/screenshot-firefox.png.png)
+![image info](https://github.com/mohamed-official/i3-nordic-dotfiles/blob/main/screenshots/screenshot-firefox.png)
 
 ---
 

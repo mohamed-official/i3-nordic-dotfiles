@@ -8,6 +8,8 @@
 
 ---
 
+OS: EndeavourOS
+
 Code Editor: VSCode
 
 VSCode Theme: https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code
